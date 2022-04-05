@@ -1,0 +1,5 @@
+
+*Mixin creado en _fonts
+*Extend creado en  _content, se agrego un boton en la pantalla index
+que extiende las propiedades del boton que estan en  la pagina
+contacto
