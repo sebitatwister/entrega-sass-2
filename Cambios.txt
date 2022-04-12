@@ -1,5 +1,7 @@
-
-*Mixin creado en _fonts
-*Extend creado en  _content, se agrego un boton en la pantalla index
-que extiende las propiedades del boton que estan en  la pagina
-contacto
+Los cambios relacionados con SEO se pueden encontrar en index y contacto.
+  *Se agrego las keywords en la pagina index: "Musica, rock, banda, Rosario"
+  *Se agrego la descripcion en la pagina index: "Pagina de Lena esta Oculta banda de rock de la ciudad de Rosario. Aca vas a encontrar nuestra info de shows, escuchar nuestra musica."
+  *Se modifico el titulo del index para que sea un poco mas descriptivo: “Lena Esta Oculta - Banda de Musica”
+  *Se agrego las keywords en la pagina contacto: "contacto, rock, banda, Rosario"
+  *Se agrego la descripcion en la pagina contacto:"Pagina de Lena esta Oculta banda de rock de la ciudad de Rosario. Aca vas a poder contactarte con nosotros."
+  *Se cambio el titulo de la pagina contacto: “Contacto Banda Lena Esta Oculta”
